@@ -2,6 +2,12 @@
 A Lightweight PHP Script that help developers perform WP site migrations easily.
 
 # Getting Started
+Upload index.php in the public_html directory or subdirectory of your server. Access the tool via browser.
+
+You should see the following screen if it is installed properly:
+
+![Screenshot](https://raw.githubusercontent.com/Iplussoft-Technologies/WP-Turbo-Migrate/master/screenshot.png)
+
 Steps to migrate your WordPress site using WP Turbo Migrate tool:
 - Perform backups (if required)
 - Pack current WordPress to zip file and download
